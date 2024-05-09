@@ -15,7 +15,7 @@ The following Python packages installed:
 * scikit-learn
   
 You can install the necessary Python packages using pip:  
-pip install numpy pandas matplotlib seaborn scikit-learn jupyter  
+`pip install numpy pandas matplotlib seaborn scikit-learn jupyter`  
 
 ### Visualization
 File: viz.ipynb  
