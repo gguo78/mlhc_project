@@ -4,20 +4,21 @@ group member: Yuxin Xiao, Grace Guo, Nancy Zha, Kailin Xu
 
 ### Prerequisites
 
-Before running the notebook, ensure you have the following:
-Python 3.8 or later
-The following Python packages installed:
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-You can install the necessary Python packages using pip:
-pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+Before running the notebook, ensure you have the following:  
+Python 3.8 or later  
+
+The following Python packages installed:  
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* scikit-learn
+You can install the necessary Python packages using pip:  
+pip install numpy pandas matplotlib seaborn scikit-learn jupyter  
 
 ### Visualization
-File: viz.ipynb
-Data: 
+File: viz.ipynb  
+Data:  
 * data/Chinese.csv: GPT-4 result from Chinese prompts
 * data/English.csv: GPT-4 result from English prompts
 * data/True.csv: processed data of true disease prevalence   
