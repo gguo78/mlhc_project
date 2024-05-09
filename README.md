@@ -27,8 +27,8 @@ Data:
 Structure: 
 * Data Loading: load the disease prevalence data from CSV files.
 * Data Preprocessing: perform any cleaning or transformation of the data.
-Data Analysis: execute the statistical analysis comparing actual and predicted disease prevalences.
-Visualization: generate plots and visualizations of the results.
+* Data Analysis: execute the statistical analysis comparing actual and predicted disease prevalences.  
+* Visualization: generate plots and visualizations of the results.
 
 
 ### References
