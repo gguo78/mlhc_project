@@ -8,6 +8,8 @@ Before running the notebook, ensure you have the following:
 Python 3.8 or later  
 
 The following Python packages installed:  
+* `os`
+* `openai`, specifically `AzureOpenAI`  
 * `numpy`
 * `pandas`
 * `matplotlib`
