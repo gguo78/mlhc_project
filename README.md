@@ -15,6 +15,8 @@ The following Python packages installed:
 * `matplotlib`
 * `seaborn`
 * `scikit-learn`
+* `scipy`
+* `statsmodels`
   
 You can install the necessary Python packages using pip:  
 `pip install numpy pandas matplotlib seaborn scikit-learn jupyter`  
@@ -42,6 +44,11 @@ Structure:
 * Data Preprocessing: perform any cleaning or transformation of the data.
 * Data Analysis: execute the statistical analysis comparing actual and predicted disease prevalences.  
 * Visualization: generate plots and visualizations of the results.
+
+### Statistical Analysis
+File: `stat.ipynb`  
+Description:  
+This notebook contains the statistical tests and methods used to analyze the data processed in Parsing.ipynb and visualized in viz.ipynb. It provides detailed statistical insights into the biases in disease prevalence predictions across different demographics and languages. The notebook includes hypothesis testing, p-value calculations, and other statistical methods to quantify biases.  
 
 ### How to Run
 1. Clone the repository to your local machine.  
